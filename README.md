@@ -1,16 +1,26 @@
-## Hi there 👋
+### Verdict Prediction Dataset
+#### Veracity Classification Dataset
+##### Natural Claims
 
-<!--
-**dzwhala0128/dzwhala0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering (Tao et al., 2025)
+  [[Paper]](https://arxiv.org/abs/2505.11811)
+  #[[Dataset]](https://github.com/THU-BPM/Pinocchio)
+  #[[Code]](https://github.com/THU-BPM/Pinocchio)
+  ![](https://img.shields.io/badge/ACL%202025-purple)
+* ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking (Zhang et al., 2024)
+  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645455)
+  [[Code]](https://github.com/zfr00/ESCNet)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
+* MCFEND: A Multi-source Benchmark Dataset for Chinese Fake News Detection (Li et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2403.09092)
+  [[Dataset]](https://github.com/TrustworthyComp/mcfend)
+  ![](https://img.shields.io/badge/WWW%202024-blue)
+* What Makes Medical Claims (Un)Verifiable? Analyzing Entity and Relation Properties for Fact Verification (Wührl et al., 2024)
+  [[Paper]](https://arxiv.org/pdf/2402.01360)
+  [[Dataset]](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/bioclaim/)
+  ![](https://img.shields.io/badge/EACL%202024-orange)
+* AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web (Schlichtkrull et al., 2023)
+  [[Paper]](https://arxiv.org/pdf/2305.13117)
+  [[Dataset]](https://github.com/MichSchli/AVeriTeC)
+  [[Shared Task]](https://fever.ai/task.html)
+  ![](https://img.shields.io/badge/NeurIPS%202023-purple)
