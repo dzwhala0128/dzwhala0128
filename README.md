@@ -14,5 +14,5 @@
   ![](https://img.shields.io/badge/ACL%202018-blue)
 * ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision (Lee et al., 2025)
   [[Paper]](https://aclanthology.org/2025.acl-long.16/)
-  [[Code]](https://react-lm.github.io/)
+  [[Code]](https://github.com/leeds1219/ReSCORE)
   ![](https://img.shields.io/badge/ACL%202025-red)
