@@ -4,8 +4,6 @@
 
 * BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering (Tao et al., 2025)
   [[Paper]](https://arxiv.org/abs/2505.11811)
-  #[[Dataset]](https://github.com/THU-BPM/Pinocchio)
-  #[[Code]](https://github.com/THU-BPM/Pinocchio)
   ![](https://img.shields.io/badge/ACL%202025-purple)
 * ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking (Zhang et al., 2024)
   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645455)
